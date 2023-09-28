@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+/* 
+  .recipeList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+     */
+
+ ul{
+  list-style: none;
+
+}
+input{
+  font-size: medium;
+  padding: 15px;
+  margin: 7px;
+  border: sienna solid 2px;
+  border-radius: 7px;
+  width: 50%;
+
+}
+
+button{
+  font-size: medium;
+  padding: 12px;
+  border: solid bisque ;
+  border-radius: 7px;
+  background:rgb(195, 140, 52);
+  color: white;
+  
+}
+.input{
+  display: flex;
+  font-weight: 600;
+  font-size: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
